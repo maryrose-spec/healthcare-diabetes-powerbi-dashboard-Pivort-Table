@@ -49,6 +49,10 @@ The dashboard provides interactive insights into patient demographics, glucose l
 * Risk Segmentation
 * Comparative Visualizations
 
+##Dashboard
+<img width="1242" height="676" alt="image" src="https://github.com/user-attachments/assets/cacf664d-e8e8-43d5-b4f2-6fcbe9ce7919" />
+
+
 ## Author
 
 Ujunwa Maryrose Eya
